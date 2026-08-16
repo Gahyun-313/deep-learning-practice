@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# TensorBoard logs
+graph/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
